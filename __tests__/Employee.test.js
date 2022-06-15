@@ -1,10 +1,7 @@
 const { default: TestRunner } = require('jest-runner');
 const Employee = require('../lib/Employee');
 
-test("can we make an employee object", () => {
-    const employee = new Employee();
-    expect(typeof(employee).toBe("object"));
-})
+
 test("can we set a name using our constructor", () => {
     const name = "Tom"
     const employee = new Employee(name);
