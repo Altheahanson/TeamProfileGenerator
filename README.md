@@ -7,6 +7,9 @@
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Application](#application)
+- [Images](#images)
+- [Full Video Demo](#full-video)
 - [License](#license)
 - [Contributing](#contributing)
 - [Tests](#tests)
@@ -35,8 +38,11 @@ Open bash terminal - node index.js
 Link to Deployed Application: none
 
 ## Images
-- ![TEAMPROFILE Generator](./assets/images/)
-- [CLICK HERE TO VIEW FULL VIDEO](./assets/images/)
+- ![HMTL Page](./assets/images/Althea's-TeamProfileGenerator.png)
+- ![TEAMPROFILE Generator](./assets/images/Althea'sTeamProfileGenerator.gif)
+
+## Full Video
+-  https://drive.google.com/file/d/1gX-K3xXXqSVV4CzXL-U07-osXAfj2kID/view?usp=sharing
 
 ## Tests
 Email Me
